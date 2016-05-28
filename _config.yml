@@ -1,0 +1,13 @@
+# Site settings
+title: Sean Carroll
+email: your-email@domain.com
+description: > #
+url: "http://seanthomascarroll.com"
+twitter_username: seancarroll_
+github_username:  seancarroll
+stackoverflow_link: users/252243/sean-carroll
+linkedin: seanthomascarroll
+# Build settings
+markdown: kramdown
+# Google Analytics
+google_analytics_ua: UA-77724152-1
