@@ -1,20 +1,24 @@
 <header class="site-header">
-
+  
   <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
+    <h1 class="site-title" >
+      {{ site.title }}
+    </h1>
     <nav class="site-nav">
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
+        <a class="page-link" href="/">Home</a>
+        <a class="page-link" href="/about/">About</a>
+        <a class="page-link" href="/now/">Now</a>
+        <a class="page-link" href="/archive/">Archive</a>
     </nav>
-
+    <div class="site-header-social">
+      <a href="https://github.com/{{ site.github_username }}"><span class="icon icon--github">{% include icon-github.svg %}</span></a>
+      <a href="https://stackoverflow.com/{{ site.stackoverflow_link }}"><span class="icon icon--stackoverflow">{% include icon-stackoverflow.svg %}</span></a>
+      <a href="https://twitter.com/{{ site.twitter_username  }}"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
+      <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}"><span class="icon icon--linkedin">{% include icon-linkedin.svg %}</span></a>
+      <a href="/feed.xml"><span class="icon icon--rss">{% include icon-feed.svg %}<span></a>
+    </div>
   </div>
 
 </header>
