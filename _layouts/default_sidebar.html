@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', '{{ site.google_analytics_ua }}', 'auto');
+ga('send', 'pageview');
+</script>
+
+</html>
