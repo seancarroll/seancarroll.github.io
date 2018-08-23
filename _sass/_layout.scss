@@ -184,12 +184,17 @@
 
     > li {
         margin-bottom: $spacing-unit;
+
+        > h2 {
+            margin: 0px;
+        }
     }
 }
 
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    margin: 0 0 10px;
 }
 
 .post-link {
