@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "2019 Goals"
-categories: Goals
+categories: 2019 Goals
 comments: false
-summary: 
+summary: My 2019 Peronsal Goals
 ---
 
 # 2019 Goals
