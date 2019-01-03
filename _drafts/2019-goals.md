@@ -14,9 +14,9 @@ I can't think of a better way to start acting on one of my goals, hint: blogging
 
 I haven't done much travel and I'm looking to change that in 2019. I'll be heading to New Orleans for a few days in April which is a good start. I'd like to plan two additional trips. One being a weekend gateway and another being for a longer vacation.
 
-## Self Care
+## Self-care
 
-A few goals concerning self care
+A few goals concerning self-care
 
 ### Exercise
 
@@ -39,44 +39,50 @@ I do a horrible job at getting a consistent amount of sleep. Technically, I've a
 Over the last few years I've started to read more which is partially driven by my girlfriend as we'll read the same book at the same time flipping between us on who chooses the book. Even with that, I still only get through a few books a year.
 
 I probably won't get through all of these but books on my 2019 reading list in alphabetial order
-- Cloud Native Java
-- Designing Data-Intensive Applications
-- Domain Driven Design (Blue Book)
-- Doom
-- How To Win Friends And Influence People
-- It Doesn't Have to be Crazy At Work
-- Microservices for Everyone
-- Remote
-- Thinking In Systems
-- Wolfenstein
+- [Cloud Native Java](https://www.amazon.com/Cloud-Native-Java-Designing-Resilient/dp/1449374646/ref=sr_1_3?ie=UTF8&qid=1546479903&sr=8-3&keywords=Cloud+Native+Java)
+- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?ie=UTF8&qid=1546479974&sr=8-1&keywords=Designing+Data-Intensive+Applications)
+- [Domain Driven Design (Blue Book)](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_2?ie=UTF8&qid=1546479948&sr=8-2&keywords=domain+driven+design)
+- [Everyone's a Aliebn When Ur a Aliebn Too](https://www.amazon.com/Everyones-Aliebn-When-Ur-Too/dp/0062569023/ref=sr_1_1?ie=UTF8&qid=1546480353&sr=8-1&keywords=Everyone%27s+a+Aliebn+When+Ur+a+Aliebn+Too)
+- [Game Engine Blakc Book: Doom](https://www.amazon.com/Game-Engine-Black-Book-Doom/dp/1987418433/ref=sr_1_1?ie=UTF8&qid=1546479992&sr=8-1&keywords=doom+black+book)
+- [Game Engine Black Book: Wolfenstein 3D](https://www.amazon.com/Game-Engine-Black-Book-Wolfenstein/dp/1539692876/ref=sr_1_2?ie=UTF8&qid=1546480060&sr=8-2&keywords=wolfenstein+black+book)
+- [How To Win Friends And Influence People](https://www.amazon.com/Friends-Influence-People-75th-Anniversary/dp/B0074MBMZ4/ref=sr_1_10?ie=UTF8&qid=1546480104&sr=8-10&keywords=How+To+Win+Friends+And+Influence+People)
+- [It Doesn't Have to be Crazy At Work](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780/ref=sr_1_1?ie=UTF8&qid=1546480127&sr=8-1&keywords=It+Doesn%27t+Have+to+be+Crazy+At+Work)
+- [Microservices for Everyone](https://www.amazon.com/Microservices-everyone-Matthias-Noback/dp/9082120151/ref=sr_1_1?ie=UTF8&qid=1546480158&sr=8-1&keywords=Microservices+for+Everyone)
+- [Remote: Office Not Required](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501/ref=sr_1_1?ie=UTF8&qid=1546480178&sr=8-1&keywords=Remote+book)
+- [The Goal](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951/ref=sr_1_1?ie=UTF8&qid=1546480210&sr=8-1&keywords=The+Goal)
+- [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/ref=sr_1_1?ie=UTF8&qid=1546480226&sr=8-1&keywords=The+Phoenix+Project)
+- [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_1?ie=UTF8&qid=1546480267&sr=8-1&keywords=Thinking+Fast+and+Slow)
+- [Thinking In Systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557/ref=sr_1_1?ie=UTF8&qid=1546480298&sr=8-1&keywords=Thinking+In+Systems)
+
+While I might not get to all of these I'm aiming for the very least 1 book a month.
 
 ## Open Source
 
 In 2018 I started actively working on a few personal side projects which includes
-- FoundationDB Event Store https://github.com/seancarroll/fdb-java-es
-- https://github.com/seancarroll/jmediator
-- https://github.com/seancarroll/jSQLStreamStore
+- [FoundationDB Event Store](https://github.com/seancarroll/fdb-java-es) - An event store built on top of Apple's FoundationDB.
+- [jmediator](https://github.com/seancarroll/jmediator) - Simple in-process mediator implementation similar to [Mediatr](https://github.com/jbogard/MediatR)
+- [jSQLStreamStore](https://github.com/seancarroll/jSQLStreamStore) - Event Store Built on top of RDBMS. Java port of [SQLStreamStore](https://github.com/SQLStreamStore/SQLStreamStore)
 
- I also made my first contribution to an open source project https://github.com/lmdbjava/lmdbjava
+ I also made my first contribution to an open source project that wasn't one of mine.
 
-For 2019 I want to finish the projects above as well as 
+For 2019 I want to finish the projects listed above as well as start a few more. I also want to contribute more to other projects that I don't own. 
 
-contribute to others (spring / rocksdb / lmdbjava)
+## Start a Business
 
-## Business
-
-<!-- TODO: add content -->
+This is nothing more than a strech goal and not realistic but I'm including it nonetheless. Throughout 2018 I spent time trying to think of ideas for side projects that could potentially turn into a business. I think I have one that I plan to try and work towards. My goal for 2019 is simply to spent time on building out the software for the potential business and see what comes from it.
 
 ## Community Participation
 
-Chicago Java User Group / Chicago Tech Slack / DDD-CQRS-ES / others?
-
-I've been actively attending Meetups in 2018 but have usually kept to myself as I'm generally I'm a shy person.
+I've been actively attending Meetups in 2018 but have haven't used it as an opportunity to network. For 2019, my goal is to continue going to at least one Meetup a month but to actively meet people and network. The Chicago Java User Group occassionally does lightning talks so I might attempt to put togther a lightning talk. Last but not least is to stop lurking on ddd-cqrs-es and Chicago Tech slack channels and participate more in the conversations.
 
 ## Blogging
 
-I've included this as a goal since 2016 which I actually set this blog up on GitHub pages but I've never made much progress. While writing this I look at the items under my `_drafts` folder I have 11 potential blog post ideas but none are close to being finished. Maybe this year...
+I've included this as a goal since 2016 when I set up this blog on GitHub pages but I've never made much progress. At the time of writing this I have 11 unfinished or barely started blogs posts in my `_drafts` folder. My 2019 goal would be to write one post a month but I'd just to happy to finish a few of my drafts.
 
 ## Streaming 
 
-Try my hand at streaming on twitch. I bought some equipment last year and attempted to stream however I ran into a slight issue. I currently get my internet from my apartment complex and discovered that they are blocking twitch. More specifically, it looks like they are blocking a specific protocol. To verify I tried a few remote locations and I didn't have any issues. This might also be the reason why HQ video doesn't work while I'm on my WiFi. This leaves a few potential options A) drop the internet provided by my building and start paying for it myself. B) Stream from work on my off hours. C) Stream over a VPN
+Try my hand at streaming on twitch. I bought some equipment last year and attempted to stream however I ran into a slight issue. I currently get my internet from my apartment complex and discovered that they are blocking twitch. More specifically, it looks like they are blocking a specific protocol. To verify I tried a few remote locations and I didn't have any issues. This might also be the reason why HQ video doesn't work while I'm on my WiFi. This leaves a few potential options 
+
+1. drop the internet provided by my building and start paying for it myself.
+2. Stream from work on my off hours.
+3. Stream over a VPN
