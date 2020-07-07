@@ -2,6 +2,7 @@
 layout: post
 title: "Personal Knowledge Management"
 categories: 
+tags: ["writing"]
 comments: false
 summary: 
 ---
