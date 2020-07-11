@@ -21,9 +21,8 @@ The problem of course is that these notes arent organized, searchable or otherwi
 {% endcapture %}
 {% include block-and-bobble.html content=bb_moleskine %}
 
-As a result what I end up writing are short lived notes that I only need to come back to within a short timeframe. 
+As a result, I tend to end up writing short lived notes that I only need to come back to within a short timeframe. 
 Generally these end up being reminders or TODO lists.
-Anything longer then that I move elsewhere.
 
 I was scrolling through Twitter the other day when I saw this tweet
 
@@ -38,26 +37,25 @@ Couple of Google searches for Zettlr and Obsidian and a few more tabs.
 
 {% include rubber-duck.html content="<b>cracks knuckles</b> here we go..." %}
 
+{% include narrator.html content="Some time later" %}
+
 While there are an abundance of note taking apps out there, what initially struck me is that these products aren't just about taking notes. 
-Instead, they are about [personal knowledge management(https://en.wikipedia.org/wiki/Personal_knowledge_management). 
+Instead, they are about [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management). 
 At the core its about surfacing a knowledge graph made possible by [wiki-links](https://en.wikipedia.org/wiki/Help:Link). TODO: building context.
-More then that, the real key is that these links are bi-directional with the automatic creation of backlinks. 
+More then that, the real key is that these links are bi-directional with the automatic creation of backlinks.  
+TODO: Flush this out a bit more. Talk about Roam white paper https://roamresearch.com/#/app/help/page/Vu1MmjinS
 
-Into the weeds
-- https://zettelkasten.de/
-- Map Of Context (MOC)
-- https://forum.obsidian.md/t/imf-v3-advanced-starter-kit/390
-
-This is some next level shit. 
-As someone who's trying to just get started this is far too advanced for me. 
+My research also lead me a bit into the weeds with [zettelkasten](https://zettelkasten.de/), map of context (MOC), and even this [starter kit](https://forum.obsidian.md/t/imf-v3-advanced-starter-kit/390).
+All of these are some next level shit. 
+As someone who's trying to simply get started these are far too advanced for me. 
 I'm make sure to include them and add links and hopefully circle back to them in the future.
 
 {% include rubber-duck.html content="Do you remember the way out?" %}
 
-TODO: transition to me decided to give this a whirl. 
-All this research has invigorated me to give So this is exciting
+All this research has invigorated me to give this another go. 
+Heck, I even decided to blog about it so that in itself is a good first step.
 
-I'm not yet ready to drop $15 on something that I may only use a few times so I started to take a closer look at some free alternatives. 
+Roam is a monthly subscription and I'm not yet ready to drop $15 on something that I may only use a few times so I started to take a closer look at some free alternatives. 
 Below is a simple comparison matrix based on my initial basic research.
 
 {:class="table table-bordered"}
@@ -72,23 +70,10 @@ I like the direction Foam is going but it feels a wee bit early for me.
 As of right now, Obsidian hits the sweet spot for me however I starred Foam on GitHub and will be checking in on over the next few months to see how they are progressing. 
 
 
+Before you go, I also stumbed upon the following which I was very impressed by. 
+- https://notes.andymatuschak.org/About_these_notes
+- https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z4erJ1AQZ28DEMUv3p7AfGNqooWp8pLUVFnQ8&stackedNotes=z8V2q398qu89vdJ73N2BEYCgevMqux3yxQUAC&stackedNotes=z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc&stackedNotes=zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv&stackedNotes=z6GNVv6RyFDewy11ZgXzce8agWxSLwJ6Ub5Rw
 
 
-add details about wiki-link
-
-
-- Obsidian
-- Foam
-- Roam
-- https://www.zettlr.com/
-- https://zettelkasten.de/
-- Backlinks
-- Graph
-
-
-https://roamresearch.com/#/app/help/page/Vu1MmjinS
-
-
-https://notes.andymatuschak.org/About_these_notes
-
-https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z4erJ1AQZ28DEMUv3p7AfGNqooWp8pLUVFnQ8&stackedNotes=z8V2q398qu89vdJ73N2BEYCgevMqux3yxQUAC&stackedNotes=z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc&stackedNotes=zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv&stackedNotes=z6GNVv6RyFDewy11ZgXzce8agWxSLwJ6Ub5Rw
+Check you later on a back link.  
+See you later on a back link.  
