@@ -2,7 +2,7 @@
 layout: post
 title: "Personal Knowledge Management"
 categories: 
-tags: ["writing"]
+tags: ["writing", "personal knowledge management"]
 comments: false
 summary: 
 ---
@@ -41,9 +41,10 @@ Couple of Google searches for Zettlr and Obsidian and a few more tabs.
 
 While there are an abundance of note taking apps out there, what initially struck me is that these products aren't just about taking notes. 
 Instead, they are about [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management). 
+The Roam Research [white paper](https://roamresearch.com/#/app/help/page/Vu1MmjinS) is certainly worth a read. 
 At the core its about surfacing a knowledge graph made possible by [wiki-links](https://en.wikipedia.org/wiki/Help:Link). TODO: building context.
 More then that, the real key is that these links are bi-directional with the automatic creation of backlinks.  
-TODO: Flush this out a bit more. Talk about Roam white paper https://roamresearch.com/#/app/help/page/Vu1MmjinS
+<!-- TODO: Flush this out a bit more.  -->
 
 My research also lead me a bit into the weeds with [zettelkasten](https://zettelkasten.de/), map of context (MOC), and even this [starter kit](https://forum.obsidian.md/t/imf-v3-advanced-starter-kit/390).
 All of these are some next level shit. 
@@ -69,11 +70,13 @@ Zettlr doesn't support the features I'm looking for so that's out.
 I like the direction Foam is going but it feels a wee bit early for me.  
 As of right now, Obsidian hits the sweet spot for me however I starred Foam on GitHub and will be checking in on over the next few months to see how they are progressing. 
 
+Now the hard part, how to start? 
+Whelp, I think a good place to start is about this!
+I also have some notes on a few books I have that I plan to more over. 
+I think thats a good place to start and we'll go from there.
 
 Before you go, I also stumbed upon the following which I was very impressed by. 
 - https://notes.andymatuschak.org/About_these_notes
 - https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z4erJ1AQZ28DEMUv3p7AfGNqooWp8pLUVFnQ8&stackedNotes=z8V2q398qu89vdJ73N2BEYCgevMqux3yxQUAC&stackedNotes=z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc&stackedNotes=zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv&stackedNotes=z6GNVv6RyFDewy11ZgXzce8agWxSLwJ6Ub5Rw
 
-
-Check you later on a back link.  
-See you later on a back link.  
+Hopefully catch you again on a back link.
